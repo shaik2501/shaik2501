@@ -98,36 +98,8 @@ const awaiz = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## &nbsp;💼 Experience
-
-<table>
-  <tr>
-    <td>
-      <h3>🏢 Wedevit.in — Software Developer</h3>
-      <p><code>Aug 2025 – Present</code> · Kurnool, Andhra Pradesh</p>
-      <ul>
-        <li>Building production-grade full-stack products with a focus on scalability & performance</li>
-        <li>Associate developer for <b>Erus Academy</b> — built using MERN stack with clean, modular architecture</li>
-        <li>Architected scalable REST APIs, reducing response latency with best practices</li>
-        <li>Reviewed frontend flows for accessibility, usability & responsive UX across devices</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## &nbsp;🚀 Featured Projects
-
-<div align="center">
-
-| Project | Tech Stack | Description |
-|:--------|:-----------|:------------|
-| **🎓 Erus Academy** | `React` `Node.js` `MongoDB` `Express` `AWS EC2` | AI-assisted learning platform for communication, speaking & pronunciation. Scalable system on AWS EC2 with MongoDB Atlas. |
-| **🤟 Sign Language Video Conferencing** | `MERN` `CNN-LSTM` `Tailwind CSS` | Real-time sign language gesture detection via webcam, integrated into video conferencing with live text translation. |
-| **🛠️ Fixit — Civic Issue Platform** | `React` `MERN` `Mapbox API` `ML` | Civic issue reporting with ML-powered pothole detection, map-based pinning & 100+ concurrent user support. |
-
-</div>
 
 <br/>
 
@@ -156,54 +128,6 @@ const awaiz = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaik-awaiz&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=161b22&area=true&hide_border=true" width="95%"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## &nbsp;🏆 Achievements & Certifications
-
-<div align="center">
-
-| 🏅 Achievement | 📅 When |
-|:--------------|:--------|
-| 🥉 **Second Runner-Up** — XR Fusion Hackathon (Built AR Innovation Model) | Oct 2024 |
-| 🥈 **Runner-Up** — Pals Innowah! Hackathon | Mar 2026 |
-| 🥈 **Runner-Up** — Hyderabad Entrepreneurship Summit | Nov 2025 |
-| 📜 Foundation Certificate in Python — *Infosys Springboard* | Jan 2024 |
-| 📜 Foundation Certificate in Java — *Infosys Springboard* | Jul 2023 |
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shaik-awaiz&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## &nbsp;🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaik-awaiz/shaik-awaiz/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shaik-awaiz/shaik-awaiz/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/shaik-awaiz/shaik-awaiz/output/github-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- QUOTE -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%" />
-</div>
-
-<br/>
-
-<!-- FOOTER -->
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%" />
-
   ### 💬 Let's Connect & Build Something Amazing Together!
   
   <p>
@@ -212,10 +136,5 @@ const awaiz = {
     </a>
   </p>
 
-  <p>
-    <img src="https://img.shields.io/badge/Made%20with-❤️-ff0000?style=for-the-badge&labelColor=0d1117" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/Powered%20by-☕%20Coffee%20%26%20Chai-6F4E37?style=for-the-badge&labelColor=0d1117" />
-  </p>
 
 </div>
