@@ -1,125 +1,183 @@
-<div align="center">
+<!-- ==================== BANNER ==================== -->
+<p align="center">
+  <img src="./assets/banner.jpg" alt="No Expectations" width="100%" />
+</p>
 
-<!-- ANIMATED HEADER SVG -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Shaik%20Muhammad%20Awaiz&fontSize=40&fontColor=58a6ff&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI-ML%20Engineer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+<h1 align="center">Shaik Muhammad Awaiz</h1>
 
+<p align="center">
+  <em>Full Stack Developer &nbsp;•&nbsp; AI / ML Engineer &nbsp;•&nbsp; Systems Tinkerer</em>
+</p>
 
-<br/>
-
-<!-- SOCIAL BADGES -->
-<p>
-  <a href="https://linkedin.com/in/shaik-awaiz">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/shaik-awaiz">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
   <a href="mailto:shaikawaiz2501@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-FF2E88?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>&nbsp;
-  <a href="https://github.com/shaik-awaiz">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/shaik2501">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
-<!-- PROFILE VIEWS & FOLLOWERS -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=shaik-awaiz&style=for-the-badge&color=161b22&label=PROFILE+VIEWS&labelColor=0d1117" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shaik2501&style=for-the-badge&color=ff2e88&label=PROFILE+VIEWS&labelColor=0d1117" alt="Profile views" />
   &nbsp;
-  <a href="https://github.com/shaik-awaiz?tab=followers">
-    <img src="https://img.shields.io/github/followers/shaik-awaiz?style=for-the-badge&color=161b22&labelColor=0d1117&logo=github" />
+  <a href="https://github.com/shaik2501?tab=followers">
+    <img src="https://img.shields.io/github/followers/shaik2501?style=for-the-badge&color=ffe600&labelColor=0d1117&logo=github&logoColor=white" alt="Followers" />
   </a>
 </p>
 
-</div>
-
-<!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<!-- ==================== ABOUT ==================== -->
 ## &nbsp;`$ whoami`
 
-```js
-const awaiz = {
-    name: "Shaik Muhammad Awaiz",
-    role: "Full Stack Developer | AI-ML Enthusiast",
-    education: "B.Tech CSE (AI/ML) — G Pulla Reddy Engineering College, Kurnool",
-    currentlyBuilding: "Erus Academy — AI Assisted Learning Platform @ Wedevit.in",
-    techStack: ["MERN Stack", "FastAPI", "TensorFlow", "LangChain", "RAG Pipelines"],
-    askMeAbout: ["React", "Node.js", "REST APIs", "Generative AI", "System Design"],
-    funFact: "I built a sign language detector that translates gestures into live text on video calls 🤟",
-    motto: "First, solve the problem. Then, write the code."
-};
-```
+<table>
+<tr>
+<td width="220" valign="top">
+  <img src="./assets/me.jpg" alt="Shaik Muhammad Awaiz" width="200" />
+</td>
+<td valign="top">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+Hey — I'm **Awaiz**, a B.Tech CSE (AI/ML) student at **G. Pulla Reddy Engineering College, Kurnool**, and a full stack developer who keeps drifting toward the harder half of the stack.
 
-## &nbsp;⚡ Tech Arsenal
+Most of what I build sits where **web engineering meets applied AI**: React and Node on the front, FastAPI and Python on the back, and LLMs, RAG pipelines and multi-agent systems doing the interesting work in the middle. Lately I've been going lower — writing **Rust** for a transactional Linux shell with verifier-checked undo plans, and designing recoverability-first storage semantics for the C-DAC / MeitY **AI-Enabled OS Hackathon 2026**.
 
-<div align="center">
+Currently building **Erus Academy**, an AI-assisted learning platform at **Wedevit.in**.
 
-### `Languages`
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-### `Frontend`
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,figma&theme=dark" />
-</p>
-
-### `Backend & Database`
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql&theme=dark" />
-</p>
-
-### `AI / ML`
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG_Pipeline-4B0082?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-00C853?style=for-the-badge&logoColor=white" />
-</p>
-
-### `DevOps & Tools`
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-</p>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-       
-
-## &nbsp;📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shaik-awaiz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=shaik-awaiz&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E" />
-</div>
-
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaik-awaiz&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-</div>
+I ship fast, break things on purpose, and read the stack trace instead of guessing.
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaik-awaiz&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=161b22&area=true&hide_border=true" width="95%"/>
-</div>
+`🔭` Building &nbsp;→&nbsp; Erus Academy — AI-assisted learning @ Wedevit.in
+`🦀` Exploring &nbsp;→&nbsp; Rust, OS internals, agentic system design
+`💬` Ask me about &nbsp;→&nbsp; React, Node, REST APIs, Generative AI, RAG, System Design
+`⚡` Fun fact &nbsp;→&nbsp; I built a sign language detector that turns gestures into live captions on video calls 🤟
+`🎯` Motto &nbsp;→&nbsp; *First, solve the problem. Then, write the code.*
 
-  ### 💬 Let's Connect & Build Something Amazing Together!
-  
-  <p>
-    <a href="mailto:shaikawaiz2501@gmail.com">
-      <img src="https://img.shields.io/badge/Reach%20Out-shaikawaiz2501@gmail.com-58a6ff?style=for-the-badge&labelColor=0d1117" />
-    </a>
-  </p>
+</td>
+</tr>
+</table>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-</div>
+<!-- ==================== TECH STACK ==================== -->
+## &nbsp;⚡ Tech Arsenal
+
+<table>
+<tr>
+<td width="150" align="right"><b><code>Languages</code></b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,rust&theme=dark" height="42" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td align="right"><b><code>Frontend</code></b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,figma&theme=dark" height="42" />
+</td>
+</tr>
+<tr>
+<td align="right"><b><code>Backend &amp; Data</code></b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql&theme=dark" height="42" />
+</td>
+</tr>
+<tr>
+<td align="right"><b><code>AI / ML</code></b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="42" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/RAG_Pipelines-FF2E88?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multi--Agent_Systems-2B4CFF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FFE600?style=for-the-badge&labelColor=0d1117" />
+</td>
+</tr>
+<tr>
+<td align="right"><b><code>DevOps &amp; Tools</code></b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode&theme=dark" height="42" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ==================== PROJECTS ==================== -->
+## &nbsp;🚀 Featured Work
+
+<p align="center">
+  <a href="https://github.com/shaik2501/SafeShell">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shaik2501&repo=SafeShell&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ff2e88&icon_color=ffe600&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/shaik2501/Intent-Store">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shaik2501&repo=Intent-Store&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ff2e88&icon_color=ffe600&text_color=c9d1d9" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/shaik2501/Curator-Multi-agent-system-">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shaik2501&repo=Curator-Multi-agent-system-&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ff2e88&icon_color=ffe600&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/shaik2501/CORE-AI-fitness-app">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shaik2501&repo=CORE-AI-fitness-app&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ff2e88&icon_color=ffe600&text_color=c9d1d9" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ==================== STATS ==================== -->
+## &nbsp;📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shaik2501&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff2e88&icon_color=ffe600&text_color=c9d1d9&ring_color=ff2e88" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=shaik2501&hide_border=true&background=0D1117&ring=FF2E88&fire=FFE600&currStreakLabel=FF2E88&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&stroke=FF2E88" />
+</p>
+
+<p align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaik2501&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff2e88&text_color=c9d1d9&langs_count=8" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shaik2501&bg_color=0d1117&color=ff2e88&line=ffe600&point=ffffff&area_color=161b22&area=true&hide_border=true" />
+</p>
+
+<!-- ==================== SNAKE ==================== -->
+<h3 align="center">🐍 Watch my contributions get eaten</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg" />
+    <img alt="Contribution snake animation" src="./dist/github-snake.svg" width="100%" />
+  </picture>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ==================== CONNECT ==================== -->
+<h2 align="center">💬 Let's build something with no expectations</h2>
+
+<p align="center">
+  Open to collaborations, hackathon teams, and internships in full stack &amp; applied AI.
+</p>
+
+<p align="center">
+  <a href="mailto:shaikawaiz2501@gmail.com">
+    <img src="https://img.shields.io/badge/shaikawaiz2501@gmail.com-FF2E88?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/shaik-awaiz">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-2B4CFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  <i>“First, solve the problem. Then, write the code.”</i>
+</p>
