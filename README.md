@@ -10,6 +10,12 @@
 </p>
 
 <p align="center">
+  <a href="https://shaikawaiz.wedevit.in">
+    <img src="https://img.shields.io/badge/PORTFOLIO-shaikawaiz.wedevit.in-FFE600?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0d1117" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/shaik-awaiz">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
@@ -51,6 +57,7 @@ I ship fast, break things on purpose, and read the stack trace instead of guessi
 
 <br/>
 
+`🌐` Portfolio &nbsp;→&nbsp; **[shaikawaiz.wedevit.in](https://shaikawaiz.wedevit.in)**
 `🔭` Building &nbsp;→&nbsp; Erus Academy — AI-assisted learning @ Wedevit.in
 `🦀` Exploring &nbsp;→&nbsp; Rust, OS internals, agentic system design
 `💬` Ask me about &nbsp;→&nbsp; React, Node, REST APIs, Generative AI, RAG, System Design
@@ -179,13 +186,13 @@ Fitness apps, job tooling, chat platforms, an Amazon ESCI search-relevance exper
   <img width="60%" src="https://streak-stats.demolab.com/?user=shaik2501&hide_border=true&background=0D1117&ring=FF2E88&fire=FFE600&currStreakLabel=FF2E88&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&stroke=FF2E88" alt="GitHub streak" />
 </p>
 
-<h3 align="center">Contribution heatmap</h3>
-
-<p align="center">
-  <img width="95%" src="https://ghchart.rshah.org/ff2e88/shaik2501" alt="Contribution chart" />
-</p>
-
 <!--
+  NOTE ON CONTRIBUTION CHARTS
+  ghchart.rshah.org was removed: it reported 12 contributions across 6 days when the
+  real figure was 136, and its base cell colour is #EEEEEE, which renders as a white
+  slab on a dark README. GitHub already shows the real contribution graph directly
+  above this README on the profile page, so the snake below is the only one worth having.
+
   NOTE ON STATS CARDS
   The public github-readme-stats instance (github-readme-stats.vercel.app) currently
   returns 503 for everyone — it is permanently over its rate limit — and the activity-graph
@@ -220,6 +227,12 @@ Fitness apps, job tooling, chat platforms, an Amazon ESCI search-relevance exper
 
 <p align="center">
   Open to collaborations, hackathon teams, and internships in full stack &amp; applied AI.
+</p>
+
+<p align="center">
+  <a href="https://shaikawaiz.wedevit.in">
+    <img src="https://img.shields.io/badge/See_my_work-shaikawaiz.wedevit.in-FFE600?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0d1117" alt="Portfolio" />
+  </a>
 </p>
 
 <p align="center">
