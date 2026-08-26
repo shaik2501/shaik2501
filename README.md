@@ -113,22 +113,62 @@ I ship fast, break things on purpose, and read the stack trace instead of guessi
 <!-- ==================== PROJECTS ==================== -->
 ## &nbsp;🚀 Featured Work
 
-<p align="center">
-  <a href="https://github.com/shaik2501/SafeShell">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shaik2501&repo=SafeShell&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ff2e88&icon_color=ffe600&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/shaik2501/Intent-Store">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shaik2501&repo=Intent-Store&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ff2e88&icon_color=ffe600&text_color=c9d1d9" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/shaik2501/Curator-Multi-agent-system-">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shaik2501&repo=Curator-Multi-agent-system-&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ff2e88&icon_color=ffe600&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/shaik2501/CORE-AI-fitness-app">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shaik2501&repo=CORE-AI-fitness-app&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ff2e88&icon_color=ffe600&text_color=c9d1d9" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [🦀 SafeShell](https://github.com/shaik2501/SafeShell)
+`Rust` &nbsp;·&nbsp; **C-DAC AI-Enabled OS Hackathon 2026**
+
+Transactional Linux command execution. Every command is simulated before it runs, and an AI-generated **undo plan** is checked by a verifier before it's trusted — so a bad `rm` is recoverable instead of fatal.
+
+</td>
+<td width="50%" valign="top">
+
+### [🗄️ Intent-Store](https://github.com/shaik2501/Intent-Store)
+`TypeScript` &nbsp;·&nbsp; **C-DAC AI-Enabled OS Hackathon 2026**
+
+Recoverability-first semantic storage intelligence — the filesystem understands *why* data was written, not just where, and uses that intent to make recovery a first-class operation.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### [🧠 Curator — ResearchCrew](https://github.com/shaik2501/Curator-Multi-agent-system-)
+`TypeScript` &nbsp;·&nbsp; `Multi-Agent`
+
+You give it a research goal; a supervisor agent plans and delegates to web-research, data, coding and critic agents. They argue it out and stream a fully cited markdown report live to a dashboard.
+
+</td>
+<td valign="top">
+
+### [📦 SETU — Supply Chain Copilot](https://github.com/shaik2501/ForeStock)
+`Next.js` &nbsp;·&nbsp; **MSME Idea Hackathon 6.0**
+
+A WhatsApp-first demand-forecasting and supplier-matchmaking platform that lets a 5-person MSME run its supply chain like an enterprise. Zero new hardware, zero training.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### [🛡️ Active Guardian](https://github.com/shaik2501/Active_Guardian)
+`MERN` &nbsp;·&nbsp; **MSME Idea Hackathon 6.0**
+
+An autonomous resilience engine for coastal and hilly MSMEs — predicts climate threats, alerts stakeholders, and reroutes supply chains automatically before the disruption lands.
+
+</td>
+<td valign="top">
+
+### [📂 More on the way](https://github.com/shaik2501?tab=repositories)
+`Everything else`
+
+Fitness apps, job tooling, chat platforms, an Amazon ESCI search-relevance experiment — the rest of the pile lives in my repositories tab.
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -136,17 +176,31 @@ I ship fast, break things on purpose, and read the stack trace instead of guessi
 ## &nbsp;📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shaik2501&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff2e88&icon_color=ffe600&text_color=c9d1d9&ring_color=ff2e88" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=shaik2501&hide_border=true&background=0D1117&ring=FF2E88&fire=FFE600&currStreakLabel=FF2E88&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&stroke=FF2E88" />
+  <img width="60%" src="https://streak-stats.demolab.com/?user=shaik2501&hide_border=true&background=0D1117&ring=FF2E88&fire=FFE600&currStreakLabel=FF2E88&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&stroke=FF2E88" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaik2501&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff2e88&text_color=c9d1d9&langs_count=8" />
-</p>
+<h3 align="center">Contribution heatmap</h3>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shaik2501&bg_color=0d1117&color=ff2e88&line=ffe600&point=ffffff&area_color=161b22&area=true&hide_border=true" />
+  <img width="95%" src="https://ghchart.rshah.org/ff2e88/shaik2501" alt="Contribution chart" />
 </p>
+
+<!--
+  NOTE ON STATS CARDS
+  The public github-readme-stats instance (github-readme-stats.vercel.app) currently
+  returns 503 for everyone — it is permanently over its rate limit — and the activity-graph
+  and trophy instances return 402. That is why those cards are not used here.
+
+  To get the classic stats / top-languages cards back, deploy your OWN instance:
+    1. Fork https://github.com/anuraghazra/github-readme-stats
+    2. Deploy it to Vercel (free) and add a PAT_1 env var with a GitHub token
+    3. Uncomment the block below and replace YOUR-INSTANCE with your Vercel domain
+
+  <p align="center">
+    <img width="49%" src="https://YOUR-INSTANCE.vercel.app/api?username=shaik2501&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff2e88&icon_color=ffe600&text_color=c9d1d9&ring_color=ff2e88" />
+    <img width="42%" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=shaik2501&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff2e88&text_color=c9d1d9&langs_count=8" />
+  </p>
+-->
 
 <!-- ==================== SNAKE ==================== -->
 <h3 align="center">🐍 Watch my contributions get eaten</h3>
