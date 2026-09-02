@@ -168,10 +168,10 @@ An autonomous resilience engine for coastal and hilly MSMEs — predicts climate
 </td>
 <td valign="top">
 
-### [📂 More on the way](https://github.com/shaik2501?tab=repositories)
-`Everything else`
+### [🎨 MyDesigns](https://github.com/shaik2501/MyDesigns)
+`Design Blueprints` &nbsp;·&nbsp; `Open Source`
 
-Fitness apps, job tooling, chat platforms, an Amazon ESCI search-relevance experiment — the rest of the pile lives in my repositories tab.
+An open-source collection of reusable design blueprints and visual references — a growing home for interface ideas, layouts, and design inspiration.
 
 </td>
 </tr>
